@@ -13,6 +13,7 @@ public class Exam {
 		char[] ch=new char[str.length()];
 		char[] ch1=new char[str1.length()];
 		int count=0;
+		
 		if((ch.length%3==0)&&(ch1.length%3==0))
 		{
 		for(int i=0;i<str.length();i++)
